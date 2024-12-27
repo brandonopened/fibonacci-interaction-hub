@@ -9,22 +9,22 @@ import {
 
 const projects = [
   {
-    title: "AI Agent Framework",
-    description: "A flexible framework for building and deploying custom LLM agents",
-    github: "https://github.com/brandonopened/ai-agent-framework",
-    tags: ["Python", "LangChain", "OpenAI"],
+    title: "Phi Agent",
+    description: "An advanced AI agent framework leveraging Microsoft's Phi model for enhanced natural language understanding and task execution",
+    github: "https://github.com/brandonopened/phi",
+    tags: ["Python", "LLM", "Microsoft Phi"],
   },
   {
-    title: "Custom GPT Interface",
-    description: "Interactive interface for custom GPT model deployment",
-    github: "https://github.com/brandonopened/custom-gpt-interface",
-    tags: ["React", "TypeScript", "OpenAI"],
+    title: "Browser Use",
+    description: "A sophisticated browser automation framework for AI agents, enabling web interaction and data extraction",
+    github: "https://github.com/brandonopened/browser-use",
+    tags: ["JavaScript", "Automation", "AI"],
   },
   {
-    title: "LLM Training Pipeline",
-    description: "End-to-end pipeline for fine-tuning language models",
-    github: "https://github.com/brandonopened/llm-training-pipeline",
-    tags: ["PyTorch", "Transformers", "MLOps"],
+    title: "Learning Standards Explorer",
+    description: "Interactive tool for exploring and analyzing educational standards using AI-powered insights",
+    github: "https://github.com/brandonopened/learning-standards-explorer",
+    tags: ["React", "Education", "AI"],
   },
 ];
 
