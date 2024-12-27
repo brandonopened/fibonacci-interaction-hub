@@ -1,4 +1,4 @@
-import { Brain, Robot, Code, MessageSquare } from "lucide-react";
+import { Brain, Bot, Code, MessageSquare } from "lucide-react";
 
 const services = [
   {
@@ -7,7 +7,7 @@ const services = [
     description: "Tailored artificial intelligence solutions to meet your specific business needs",
   },
   {
-    icon: Robot,
+    icon: Bot,
     title: "LLM Agents",
     description: "Development of specialized AI agents powered by large language models",
   },
