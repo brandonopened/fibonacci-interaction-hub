@@ -11,7 +11,7 @@ const projects = [
   {
     title: "Phi Agent",
     description: "An advanced AI agent framework leveraging Microsoft's Phi model for enhanced natural language understanding and task execution",
-    github: "https://github.com/brandonopened/phi",
+    github: "https://github.com/brandonopened/phiagent/tree/main/agent-app/agents",
     tags: ["Python", "LLM", "Microsoft Phi"],
   },
   {
